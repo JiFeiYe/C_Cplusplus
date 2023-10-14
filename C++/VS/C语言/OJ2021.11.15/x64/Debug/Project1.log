@@ -1,0 +1,4 @@
+﻿D:\Visual_Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  计算任意长度水仙花数.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\C_text\VIsual_Stdio\OJ2021.11.15\x64\Debug\OJ2021.11.15.exe : fatal error LNK1120: 1 个无法解析的外部命令
