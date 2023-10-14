@@ -1,0 +1,3 @@
+﻿  江旖旎.cpp
+D:\C_text\VIsual_Stdio\2021.11.26\江旖旎.cpp(28,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  2021.11.26.vcxproj -> D:\C_text\VIsual_Stdio\2021.11.26\x64\Debug\2021.11.26.exe
