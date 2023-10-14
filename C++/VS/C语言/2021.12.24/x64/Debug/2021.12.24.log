@@ -1,3 +1,0 @@
-﻿  删除重复字符.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-D:\C_text\VIsual_Stdio\2021.12.24\x64\Debug\2021.12.24.exe : fatal error LNK1120: 1 个无法解析的外部命令

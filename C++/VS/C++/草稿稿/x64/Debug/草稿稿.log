@@ -1,5 +1,0 @@
-﻿  后序创建二叉树.cpp
-D:\CODE\VIsual_Studio\C++\草稿稿\后序创建二叉树.cpp(59,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  纠错.cpp
-  正在生成代码...
-  草稿稿.vcxproj -> D:\CODE\VIsual_Studio\C++\草稿稿\x64\Debug\草稿稿.exe

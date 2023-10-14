@@ -1,3 +1,0 @@
-D:\C_text\VIsual_Stdio\草稿\x64\Debug\草稿.exe
-D:\C\VIsual_Stdio\草稿\x64\Debug\草稿.exe
-D:\C\VIsual_Stdio\C语言\草稿\x64\Debug\草稿.exe
