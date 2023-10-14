@@ -1,0 +1,12 @@
+{sample program in TINY language-computes factorial}
+read x;  {in:put}
+if 0<x then  {don��t}
+fact:=1;
+repeat
+fact := fact*x;
+x := x-1;
+until x=0;
+write fact;  {out put}
+end
+'FDSFSF
+{11111
